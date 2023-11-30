@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701343004 source:/home/ketsuraq/VBE/mengerio-kempine/main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+
